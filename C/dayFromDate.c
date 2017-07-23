@@ -121,18 +121,18 @@ int main(void)
 		break;
 	}
 	
-	if (n==295)
+	/*if (n==295)
 	{
 		printf(" is a ");
 	}
 	else if (n<295)
-	{
+	{*/
 		printf(" was a ");
-	}
+	/*}
 	else if (n>295)
 	{
 		printf(" will be a ");
-	}
+	}*/
 	
 	switch (m)
 	{
